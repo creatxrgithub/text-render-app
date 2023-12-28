@@ -1,0 +1,7 @@
+{
+  "name": "ionic-7-vue-starter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
