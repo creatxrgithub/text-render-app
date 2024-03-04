@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'ionic-7-vue-starter',
+  appId: 'creatxr.text_render_app',
+  appName: 'text-render-app',
   webDir: 'dist',
   server: {
     androidScheme: 'https'
